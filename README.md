@@ -40,7 +40,7 @@
 - [x] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
-- [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
+- [x] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
 - [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
 - [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
