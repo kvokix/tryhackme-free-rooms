@@ -69,10 +69,6 @@
 
 - [ ] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
 - [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [ ] [Basics of Linux](https://linuxjourney.com/) -- added this since the fundamentals rooms were all made premium.
-      In case you need deeper study into Linux read follow these:
-- [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
-- [A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/) -- More like practice or keeping in loop
 
 ## Windows Fundamentals
 
@@ -133,7 +129,6 @@
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-- ~~[TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- TryHackMe made this room **PREMIUM**. Try using [this deep](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet) Khan Academy resource, it's excellent trust me!
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 - [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
@@ -217,7 +212,6 @@
 - [ ] [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
-- ~~[TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)~~ -- Sadly..! This was made **PREMIUM**
 - [ ] [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
@@ -373,7 +367,6 @@
 - [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
 - [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
 - [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
-- [ ] ~~[TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)~~ - This was made **PREMIUM**
 
 ## Buffer Overflow
 
@@ -720,14 +713,10 @@
 - [ ] [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
 - [ ] [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 - [ ] [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
-
-<details>
-  <summary>Advent of Cyber 2025 - click to expand (This time it was broken down into multiple rooms instead of one, like in the past)</summary>
-
-  - [ ] [TryHackMe | Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack)
+- [ ] [TryHackMe | Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack)
 - [ ] [TryHackMe | The Case: Seven Minutes on the Seine](https://tryhackme.com/room/thecasesevenminutesontheseine)
 - [ ] [TryHackMe | Linux CLI - Shells Bells](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti)
 - [ ] [TryHackMe | The Great Disappearing Act](https://tryhackme.com/room/sq1-aoc2025-FzPnrt2SAu)
 - [ ] [TryHackMe | Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU)
 - [ ] [TryHackMe | Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp)
-</details>
+
