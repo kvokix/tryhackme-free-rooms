@@ -125,7 +125,7 @@
 - [ ] [TryHackMe | Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
 - [ ] [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
 - [ ] [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection)
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
