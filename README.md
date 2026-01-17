@@ -36,7 +36,6 @@
 
 ## Intro Rooms
 
-- [x] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [x] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
@@ -79,7 +78,7 @@
 ## Basics Rooms
 
 - [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [x] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
 - [ ] [TryHackMe | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
 - [ ] [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
