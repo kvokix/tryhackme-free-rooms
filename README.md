@@ -129,7 +129,7 @@
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 - [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
