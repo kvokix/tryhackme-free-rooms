@@ -46,7 +46,7 @@
 - [ ] [Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [ ] [Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [ ] [Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
-- [ ] [Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
+- [ ] [ile System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
 - [ ] [Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
 - [ ] [Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 - [ ] [Preparation](https://tryhackme.com/room/preparation)
@@ -67,7 +67,7 @@
 ## Linux Fundamentals
 
 - [ ] [Modules](https://tryhackme.com/room/linuxmodules)
-- [ ] [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 ## Windows Fundamentals
 
