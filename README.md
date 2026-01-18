@@ -128,7 +128,7 @@
 - [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 - [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -209,7 +209,6 @@
 - [ ] [TryHackMe | HTTP/2 Request Smuggling](https://tryhackme.com/room/http2requestsmuggling)
 - [ ] [TryHackMe | SSRF](https://tryhackme.com/room/ssrfhr)
 - [ ] [TryHackMe | OWASP Broken Access Control](https://tryhackme.com/room/owaspbrokenaccesscontrol)
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 - [ ] [TryHackMe | OWASP Top 10 - 2021](https://tryhackme.com/room/owasptop102021)
 - [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
